@@ -8,4 +8,5 @@ description: "A blog about programming and machine learning and how they are cha
 copyright: "(c) Evgeniy Mamchenko, 2017"
 encoding: utf-8
 baseurl: "/class-struggle"
+timezone: Europe/Berlin
 theme: jekyll-theme-cayman
