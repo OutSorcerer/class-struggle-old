@@ -1,1 +1,10 @@
+name: "Class Struggle"
+url: "https://outsorcerer.github.io/class-struggle/"
+title: "Class Struggle"
+author:
+  name: "Evgeniy Mamchenko"
+  email: evgeniy.mamchenko@yandex.ru
+description: "Class Struggle"
+copyright: "(c) Evgeniy Mamchenko, 2017"
+encoding: utf-8
 theme: jekyll-theme-cayman
