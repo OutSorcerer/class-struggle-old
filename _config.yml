@@ -7,5 +7,5 @@ author:
 description: "A blog about programming and machine learning."
 copyright: "(c) Evgeniy Mamchenko, 2017"
 encoding: utf-8
-baseurl: /class-struggle
+baseurl: "/class-struggle"
 theme: jekyll-theme-cayman
